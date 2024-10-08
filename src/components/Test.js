@@ -3,7 +3,7 @@ import React from 'react'
 const Maincomponent = () => {
   return (
     <div>
-      This is mai
+      This is main
     </div>
   )
 }
